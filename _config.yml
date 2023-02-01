@@ -6,8 +6,8 @@ lang       : zh
 description: lifelong learning & practice makes perfect
 copyright  : © 2016 - 2023 All Rights Reserved
 
-nav:
- - name: 首页
-   link: /
- - name: 编程人生
-   link: /base/time/
+# nav:
+#  - name: 首页
+#    link: /
+#  - name: 编程人生
+#    link: /base/time/
