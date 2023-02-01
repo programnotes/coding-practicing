@@ -1,1 +1,13 @@
+# 参考 https://zhuanlan.zhihu.com/p/51240503
+# https://github.com/scottcgi/scottcgi.github.io
 theme: jekyll-theme-minimal
+title      : coding-practicing
+lang       : zh
+description: lifelong learning & practice makes perfect
+copyright  : © 2016 - 2023 All Rights Reserved
+
+nav:
+ - name: 首页
+   link: /
+ - name: 编程人生
+   link: /base/time/
